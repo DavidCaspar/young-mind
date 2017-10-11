@@ -1,0 +1,2 @@
+# young-mind
+learning cryptocurrency
